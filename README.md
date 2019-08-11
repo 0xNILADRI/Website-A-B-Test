@@ -20,18 +20,18 @@ in order to acheive our aim. Steps involved were removing duplicate user ids , p
 
 ## Progress Outline
 
-      1.#### Part 1 - Probablity
-        Statistics were performed in order to get the probabilities for conversion regardless of page. Analyzing the data we can predict         the conversion due to a page.
+#### Part 1 - Probablity
+Statistics were performed in order to get the probabilities for conversion regardless of page. Analyzing the data we can predict         the conversion due to a page.
 
-      2.#### Part 2 - A/B Test
-        Next, hypothesis testing was conducted assuming the old page is better unless the new page proves to be definitely better at a           Type I error rate of 5%.
+#### Part 2 - A/B Test
+Next, hypothesis testing was conducted assuming the old page is better unless the new page proves to be definitely better at a           Type I error rate of 5%.
 
-        The data was bootstrapped and sampling distributions were determined for both pages. Conclusions were drawn on conversions for           both pages by calculating p-values.
+The data was bootstrapped and sampling distributions were determined for both pages. Conclusions were drawn on conversions for           both pages by calculating p-values.
 
-      3.#### Part 3 - Regression
-        Logistic regression was then performed to confirm results of the previous steps. Null and alternative hypotheses associated with         this regression model were stated and verified using statsmodel.
+#### Part 3 - Regression
+Logistic regression was then performed to confirm results of the previous steps. Null and alternative hypotheses associated with         this regression model were stated and verified using statsmodel.
 
-        Next, along with testing if the conversion rate changes for different pages, I added an effect based on which country a user             lives. Statistical output using logistic regression was provided to check if country had an impact on conversion.
+Next, along with testing if the conversion rate changes for different pages, I added an effect based on which country a user             lives. Statistical output using logistic regression was provided to check if country had an impact on conversion.
 
 
 ## Conclusion
