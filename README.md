@@ -6,6 +6,12 @@ A/B tests are very commonly performed by data analysts and data scientists. Udac
 Goal is to find that the new wevsite is performing well or not as compared to the old one. I performed different steps with the data set 
 in order to acheive our aim. Steps involved were removing duplicate user ids , page assignment , hypothesis testing and standard statistical tests and multiple regression modelling.
 
+#### Python libraries used:
+      1.Numpy
+      2.Panadas
+      3.Matplotlib.pyplot
+      4.Random
+
 #### Data Sets:
       1.ab_data.csv
       2.countries.csv
