@@ -30,20 +30,5 @@ Next, along with testing if the conversion rate changes for different pages, I a
 
 ## Conclusion
 
-#### Part 1 - Probablity
-- The probability of an individual converting regardless of the page they receive is 11.96%.
-- If the individual was in the control group, the probability they converted is 12.04%.
-- If the individual was in the treatment group, the probability they converted is 11.88%.
-- By the result provided above, we can say thay both the pages have similar performance. So we cannot state that one page leads to more   hits.
-
-#### Part 2 - A/B Test
-- Z-score : 1.3109241 is less than the critical value of 1.959963. Hence we can conclude it as null hypothesis.
-- We find that old pages performs a bit well.
-
-#### Part 3 - Regression
-- For a unit increase in a_page, conversion is 1.08 % more likely to happen
-- We can imply that coefficient of variable "US_ab_page" and "CA_ab_page" are different from the coefficient of ab_page itself.
-- Conversion is 1.03 times likely to happen for US and ab page users than UK and ab page users.
-- Conversion is 1.08 times likely to happen for CA and ab page users than UK and ab page users.
-- Convert is 0.5 % likely to happen for the users in US than UK.
-- Convert is 1.01 % likely to happen for the users in US than UK
+- The conversion rate for the new page was not superior to that for the old page
+- The country of the user did not impact the rate of conversion between the new and old page
