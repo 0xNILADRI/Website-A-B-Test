@@ -6,6 +6,8 @@ A/B tests are very commonly performed by data analysts and data scientists. Udac
 Goal is to find that the new wevsite is performing well or not as compared to the old one. I performed different steps with the data set 
 in order to acheive our aim. Steps involved were removing duplicate user ids , page assignment , hypothesis testing and standard statistical tests and multiple regression modelling.
 
+![alt text](https://raw.githubusercontent.com/niladrihere/Udacity-Data-Analyst-Project-02---Explore_Tmdb_Movie_Dataset/master/tmdb.jpeg)
+
 #### Python libraries used:
       1.Numpy
       2.Panadas
