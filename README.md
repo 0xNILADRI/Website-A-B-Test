@@ -13,6 +13,8 @@ in order to acheive our aim. Steps involved were removing duplicate user ids , p
       2.Panadas
       3.Matplotlib.pyplot
       4.Random
+      5.Statsmodels
+      6.Scipy
 
 #### Data Sets:
       1.ab_data.csv
