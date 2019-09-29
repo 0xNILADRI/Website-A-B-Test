@@ -1,4 +1,4 @@
-# Udacity-Data-Analyst-Project-04---Website-A-B-Test
+# Website-A-B-Test
 
 ## Overview
 A/B tests are very commonly performed by data analysts and data scientists. Udacity assigned a project based on understand the results of an A/B test run by an e-commerce website. Scenario is a company has developed a new web page in order to try and increase the number of users.
