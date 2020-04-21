@@ -3,8 +3,8 @@
 ## Overview
 A/B tests are very commonly performed by data analysts and data scientists. Perform A/B test run by an e-commerce website. Scenario is a company has developed a new web page in order to try and increase the number of users.
 
-Goal is to find that the new website is performing well or not as compared to the old one. I performed different steps with the data set 
-in order to acheive our aim. Steps involved were removing duplicate user ids , page assignment , hypothesis testing and standard statistical tests and multiple regression modelling.
+Goal is to find that the new website is performing well or not as compared to the old one. I performed different steps with the data set
+in order to achieve our aim. Steps involved were removing duplicate user ids , page assignment , hypothesis testing and standard statistical tests and multiple regression modelling.
 
 ![alt text](https://raw.githubusercontent.com/niladrihere/Udacity-Data-Analyst-Project-04---Website-A-B-Test/master/Website-Conversion-Optimization-AB-Testing.jpg)
 
@@ -19,7 +19,7 @@ in order to acheive our aim. Steps involved were removing duplicate user ids , p
 #### Data Sets:
       1.ab_data.csv
       2.countries.csv
-      
+
 
 
 ## Progress Outline
